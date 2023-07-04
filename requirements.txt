@@ -3,5 +3,5 @@ flask
 tensorflow
 pillow
 numpy
-protobuf
+protobuf==3.9.2
 keras
